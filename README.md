@@ -18,7 +18,7 @@ If you love to contribute and push requests to my project fell free to do so. It
 
 3.Now run Notebook and select the extracted file and you can do any changes and commit.
 
-Libraries use
+Libraries use are
 pandas
 numpy
 matplotlib
@@ -27,8 +27,11 @@ sklearn
 
 # Files in the repository
 dataset.csv : The dataset file.
+
 Analysis of malicious websitess.ipynb : Notebook file contaning the exploration and analysis of the work.
+
 readme.md : The readme file for write-up.
+
 Images
 
 # Acknowledgements
